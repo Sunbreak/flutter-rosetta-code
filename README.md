@@ -4,6 +4,10 @@ Code snippets for solving common flutter problems. Inspired by [Rosetta Code](ht
 
 ## Language
 
+- Built-in Types
+  - Strings
+  - Collections
+
 ## Ecosystem
 
 ## Framework
