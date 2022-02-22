@@ -16,3 +16,9 @@ https://rosettacode.org/wiki/Collections
   - Array: https://rosettacode.org/wiki/Array
   - Set: https://rosettacode.org/wiki/Set
   - Associative array: https://rosettacode.org/wiki/Associative_array
+
+# Functions - [example](Functions/example.md)
+
+- Call a function: https://rosettacode.org/wiki/Call_a_function
+- First class function: https://rosettacode.org/wiki/First-class_functions
+- Anonymous recursion: https://rosettacode.org/wiki/Anonymous_recursion
