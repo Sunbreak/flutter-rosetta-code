@@ -8,6 +8,7 @@ Code snippets for solving common flutter problems. Inspired by [Rosetta Code](ht
   - Strings
   - Collections
 - Functions
+- Metadata
 
 ## Ecosystem
 

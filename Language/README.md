@@ -22,3 +22,11 @@ https://rosettacode.org/wiki/Collections
 - Call a function: https://rosettacode.org/wiki/Call_a_function
 - First class function: https://rosettacode.org/wiki/First-class_functions
 - Anonymous recursion: https://rosettacode.org/wiki/Anonymous_recursion
+
+# Metadata - [example](Metadata/example.md)
+
+- Annotation
+- Reflection: https://rosettacode.org/wiki/Reflection
+  - https://rosettacode.org/wiki/Reflection/Get_source
+  - https://rosettacode.org/wiki/Reflection/List_methods
+  - https://rosettacode.org/wiki/Reflection/List_properties
